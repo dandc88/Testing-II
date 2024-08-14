@@ -20,7 +20,7 @@ Los requerimientos del desafio se han satisfecho mediante la creación de varias
     - Se creó una prueba específica para validar la conversión de objetos `WeatherWrapper` a `WeatherDto`. Esta prueba asegura que todos los campos del objeto se convierten y se asignan correctamente, manteniendo la integridad de los datos.
 
 4. **Genera un reporte de pruebas.**
-    - Se generó un reporte de pruebas utilizando el comando `./gradlew test`. El reporte detalla el resultado de cada prueba, incluyendo las pruebas exitosas y las fallidas. El reporte generado se encuentra en el siguiente path del repositorio:
+    - Se generó un reporte de pruebas utilizando el comando `./gradlew test`. El reporte detalla el resultado de cada prueba, incluyendo las pruebas exitosas y las fallidas. El reporte generado se encuentra en el siguiente path del repositorio y debe ser abierto con un navegador para visualizarlo correctamente al ser ".html":
       ```
       app/src/test/java/com/desafiolatam/weatherlatam/reporteTest/index.html
       ```
